@@ -12,3 +12,6 @@ override.tf.json
 .crash.log
 .plan
 .idea
+*/target/*
+lambda/*/target/*
+
