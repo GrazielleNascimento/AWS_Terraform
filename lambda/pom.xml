@@ -10,6 +10,7 @@
   <modules>
     <module>funcao-um</module>
     <module>funcao-dois</module>
+    <module>funcao-tres</module>
   </modules>
   <repositories>
     <repository>
